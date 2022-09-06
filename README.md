@@ -7,4 +7,4 @@ Objective:
 <img width="1224" alt="Screen Shot 2022-09-06 at 1 55 53 PM" src="https://user-images.githubusercontent.com/42010432/188736413-4b51ec93-74b0-47bb-8004-17659f5b7121.png">
 
 
-System Verilog / MatLab / Simulink / C++ / Xilinx SDK / Zynq-7000 SoCs
+Tools and Languages: System Verilog / MatLab / Simulink / C++ / Xilinx SDK / Zynq-7000 SoCs
