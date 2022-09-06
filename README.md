@@ -1,4 +1,4 @@
-AXI4LITE_Audio_Equalizer
+#AXI4LITE_Audio_Equalizer
 
 Objective: 
 
