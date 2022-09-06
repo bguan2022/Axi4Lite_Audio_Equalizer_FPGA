@@ -1,4 +1,3 @@
-# AXI4LITE_AE
 AXI4LITE_Audio_Equalizer
 
 Objective: 
